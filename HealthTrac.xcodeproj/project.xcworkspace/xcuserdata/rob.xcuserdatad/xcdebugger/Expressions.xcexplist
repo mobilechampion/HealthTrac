@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[HTLearnViewController showLearningModules]:HTLearnViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.learningModuleStatus objectAtIndex:i]">
+            </PersistentString>
+            <PersistentString
+               value = "headerTwoShown">
+            </PersistentString>
+            <PersistentString
+               value = "hasFutureModules">
+            </PersistentString>
+            <PersistentString
+               value = "[self.learningModuleTitle objectAtIndex:i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTNavigationController supportedInterfaceOrientations]:HTNavigationController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.visibleViewController supportedInterfaceOrientations]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSelectItemViewController viewWillAppear:]:HTAddFoodSelectItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.addFoodCategory">
+            </PersistentString>
+            <PersistentString
+               value = "self.relaunchPlannerItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSelectItemViewController showFoodItem]:HTAddFoodSelectItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.relaunchItemID">
+            </PersistentString>
+            <PersistentString
+               value = "self.relaunchPlannerItem">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedFoodID">
+            </PersistentString>
+            <PersistentString
+               value = "self.addFoodCategory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTMoreViewController parserDidEndDocument:]:HTMoreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.moreItems">
+            </PersistentString>
+            <PersistentString
+               value = "self.showInbox">
+            </PersistentString>
+            <PersistentString
+               value = "self.webSvcError">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSelectItemViewController prepareForSegue:sender:]:HTAddFoodSelectItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedFoodDetailsID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTInboxViewController parserDidEndDocument:]:HTInboxViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.webSvcError">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTLearnDetailsViewController showDocument:]:HTLearnDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedAssetPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTCreateEatingPlanViewController showCreateEatingPlan]:HTCreateEatingPlanViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedHeightFeet">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedHeight">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedHeightInches">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTLearnDetailsViewController playMovie:]:HTLearnDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedAssetPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTMoreViewController tableView:numberOfRowsInSection:]:HTMoreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.moreItems.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSelectItemViewController parser:didEndElement:namespaceURI:qualifiedName:]:HTAddFoodSelectItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedFoodName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardViewController parserDidEndDocument:]:HTDashboardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.customMetrics objectAtIndex:i]">
+            </PersistentString>
+            <PersistentString
+               value = "self.dashboardUserSort">
+            </PersistentString>
+            <PersistentString
+               value = "[self.customMetricsLabels objectAtIndex:i]">
+            </PersistentString>
+            <PersistentString
+               value = "indexValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTTrackerReminderViewController parserDidEndDocument:]:HTTrackerReminderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.reminderDays">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTCreateFavoritesViewController addFavoriteItem:withState:]:HTCreateFavoritesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedFavoriteRelaunchItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTMoreViewController tableView:didSelectRowAtIndexPath:]:HTMoreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTCreateEatingPlanSelectViewController selectEatingPlan:withState:]:HTCreateEatingPlanSelectViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fromDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTCreateEatingPlanSelectViewController eatingPlanPressed:]:HTCreateEatingPlanSelectViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedEatingPlanID">
+            </PersistentString>
+            <PersistentString
+               value = "[self.practicePlanID objectAtIndex:selectedPlan.tag - 3]">
+            </PersistentString>
+            <PersistentString
+               value = "selectedPlan.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardViewController connectionDidFinishLoading:]:HTDashboardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.xmlData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTLearnDetailsViewController viewWillAppear:]:HTLearnDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIDeviceOrientationIsPortrait([UIDevice currentDevice].orientation)">
+            </PersistentString>
+            <PersistentString
+               value = "UIDeviceOrientationIsLandscape([UIDevice currentDevice].orientation)">
+            </PersistentString>
+            <PersistentString
+               value = "[UIDevice currentDevice].orientation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardEditViewController viewWillAppear:]:HTDashboardEditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "appDelegate.dashboardEditItems">
+            </PersistentString>
+            <PersistentString
+               value = "userPrefsString">
+            </PersistentString>
+            <PersistentString
+               value = "self.dashboardUserSort">
+            </PersistentString>
+            <PersistentString
+               value = "appDelegate.passLogin">
+            </PersistentString>
+            <PersistentString
+               value = "self.dashboardUserPrefs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardViewController viewWillAppear:]:HTDashboardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dashboardUserPrefs">
+            </PersistentString>
+            <PersistentString
+               value = "self.dashboardUserSort">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTCreateEatingPlanSelectViewController loadPlanButtonPressed]:HTCreateEatingPlanSelectViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "![fromDate isEqualToDate:toDate]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardEditViewController tableView:didSelectRowAtIndexPath:]:HTDashboardEditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dashboardUserPrefs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTLearnViewController parser:didEndElement:namespaceURI:qualifiedName:]:HTLearnViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[elementName hasPrefix:@&quot;learning_module_id_&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self.learningModuleID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTPlannerViewController parser:didEndElement:namespaceURI:qualifiedName:]:HTPlannerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentValue">
+            </PersistentString>
+            <PersistentString
+               value = "self.plannerItemCount">
+            </PersistentString>
+            <PersistentString
+               value = "self.templateName">
+            </PersistentString>
+            <PersistentString
+               value = "self.webSvcError">
+            </PersistentString>
+            <PersistentString
+               value = "self.planName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSearchViewController createNMRangeSliderWithFrame:andMinValue:andMaxValue:andStepValue:]:HTAddFoodSearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scaleHashValues">
+            </PersistentString>
+            <PersistentString
+               value = "[scaleHashValues objectAtIndex:scaleLabelCount]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTLearnWorksheetViewController updateLearningModuleWorksheet:withState:]:HTLearnWorksheetViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.class">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSelectItemViewController addFoodItem:withState:]:HTAddFoodSelectItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedFoodID">
+            </PersistentString>
+            <PersistentString
+               value = "self.relaunchItemID">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedFoodRelaunchItemID">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedFoodQuantity">
+            </PersistentString>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedFoodDetailsID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSearchResultsViewController pickerView:didSelectRow:inComponent:]:HTAddFoodSearchResultsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.numberOfResults">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTCreateEatingPlanSelectViewController showCreateEatingPlanOptions]:HTCreateEatingPlanSelectViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedEatingPlanID">
+            </PersistentString>
+            <PersistentString
+               value = "[self.practicePlanID objectAtIndex:i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTColorMyDayViewController parserDidEndDocument:]:HTColorMyDayViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.webSvcError">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTMoreViewController tableView:cellForRowAtIndexPath:]:HTMoreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.moreItems objectAtIndex:indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTPlannerViewController prepareForSegue:sender:]:HTPlannerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.plannerItemID objectAtIndex:self.selectedFoodID]">
+            </PersistentString>
+            <PersistentString
+               value = "self.plannerItemMealID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTPlannerViewController showPlanner]:HTPlannerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.plannerItemNotes objectAtIndex:i]">
+            </PersistentString>
+            <PersistentString
+               value = "[self.plannerItemEat objectAtIndex:i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSearchResultsViewController prepareForSegue:sender:]:HTAddFoodSearchResultsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewController.selectedFoodID">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedFoodID">
+            </PersistentString>
+            <PersistentString
+               value = "self.relaunchItemID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSearchResultsViewController showSearchResults]:HTAddFoodSearchResultsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "v.class">
+            </PersistentString>
+            <PersistentString
+               value = "self.addFoodSearchResultsScrollView.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "self.addFoodCategory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTActivityViewController setReminder:]:HTActivityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "reminderButton.tag">
+            </PersistentString>
+            <PersistentString
+               value = "self.reminderMetricID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardViewController tableView:numberOfRowsInSection:]:HTDashboardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dashboardItems.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddActivitySearchViewController prepareForSegue:sender:]:HTAddActivitySearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.addActivityType objectAtIndex:2]">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedActivityID">
+            </PersistentString>
+            <PersistentString
+               value = "self.addActivityCategory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddActivityViewController addActivitySelectCategory:]:HTAddActivityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "button.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTPlannerNutritionViewController targetCaloriesButtonPressed]:HTPlannerNutritionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.plannerTargetCalories">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTTrackerReminderViewController checkButtonPressed]:HTTrackerReminderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.reminderColorDay">
+            </PersistentString>
+            <PersistentString
+               value = "self.reminderType">
+            </PersistentString>
+            <PersistentString
+               value = "self.reminderDays">
+            </PersistentString>
+            <PersistentString
+               value = "self.reminderTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddActivitySearchViewController textFieldDidChange:]:HTAddActivitySearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.addActivityID count]">
+            </PersistentString>
+            <PersistentString
+               value = "self.addActivityID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardViewController loadView]:HTDashboardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "appDelegate.passLogin = NULL">
+            </PersistentString>
+            <PersistentString
+               value = "([appDelegate.passLogin isEqualToString:@&quot;&quot;] || [appDelegate.passPw isEqualToString:@&quot;&quot;])">
+            </PersistentString>
+            <PersistentString
+               value = "appDelegate.passLogin == nil">
+            </PersistentString>
+            <PersistentString
+               value = "[titleLabelString length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSearchResultsViewController pickerView:viewForRow:forComponent:reusingView:]:HTAddFoodSearchResultsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "row">
+            </PersistentString>
+            <PersistentString
+               value = "pickerView.tag">
+            </PersistentString>
+            <PersistentString
+               value = "pickerLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTTrackerReminderViewController updateReminder:withState:]:HTTrackerReminderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "reminderDays">
+            </PersistentString>
+            <PersistentString
+               value = "[reminderDays length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddActivitySearchViewController getSearchResults:withState:]:HTAddActivitySearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.searchField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddActivitySelectItemViewController textFieldDidChange:]:HTAddActivitySelectItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.globalCaloriesBurned">
+            </PersistentString>
+            <PersistentString
+               value = "textField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardEditViewController tableView:numberOfRowsInSection:]:HTDashboardEditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.dashboardUserSort count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTJournalViewController connectionDidFinishLoading:]:HTJournalViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.xmlData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddActivitySelectItemViewController parserDidEndDocument:]:HTAddActivitySelectItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedActivityDuration">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedActivityCaloriesBurned">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSearchResultsViewController getSearchResults:withState:]:HTAddFoodSearchResultsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "prepString">
+            </PersistentString>
+            <PersistentString
+               value = "self.addFoodSearchString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSearchResultsViewController parser:parseErrorOccurred:]:HTAddFoodSearchResultsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTTrackerViewController showCalendar]:HTTrackerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentDay">
+            </PersistentString>
+            <PersistentString
+               value = "appDelegate.currentDay">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddActivitySearchViewController showSearchResults]:HTAddActivitySearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.addActivityID count]">
+            </PersistentString>
+            <PersistentString
+               value = "[self.addActivityType objectAtIndex:i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSelectItemDetailsViewController showMealItem]:HTAddFoodSelectItemDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedMealDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTTrackerViewController viewWillAppear:]:HTTrackerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[dateFormatter stringFromDate:appDelegate.passDate]">
+            </PersistentString>
+            <PersistentString
+               value = "[dateFormatter stringFromDate:date]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTAddFoodSelectItemViewController getFoodItem:withState:]:HTAddFoodSelectItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedFoodName">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedFoodID">
+            </PersistentString>
+            <PersistentString
+               value = "self.exchangeItemsString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardViewController tableView:cellForRowAtIndexPath:]:HTDashboardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dashboardItems">
+            </PersistentString>
+            <PersistentString
+               value = "[self.dashboardItemValues objectAtIndex:(indexPath.row)]">
+            </PersistentString>
+            <PersistentString
+               value = "calcNumberOne">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardEditViewController doneEditing:]:HTDashboardEditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dashboardObjects">
+            </PersistentString>
+            <PersistentString
+               value = "self.dashboardUserPrefs">
+            </PersistentString>
+            <PersistentString
+               value = "self.dashboardUserSort">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTTrackerReminderViewController getReminder:withState:]:HTTrackerReminderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+            <PersistentString
+               value = "self.reminderMetricID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTJournalViewController viewDidLoad]:HTJournalViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "newFrame">
+            </PersistentString>
+            <PersistentString
+               value = "self.journalTextView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTDashboardViewController parser:didEndElement:namespaceURI:qualifiedName:]:HTDashboardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.customMetrics">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTActivityViewController showActivity]:HTActivityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.customMetricsLabels objectAtIndex:i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HTActivityViewController parser:didEndElement:namespaceURI:qualifiedName:]:HTActivityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
